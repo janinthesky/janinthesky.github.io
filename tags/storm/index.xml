@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>storm on The Outsider&#39;s Journey</title>
+    <link>https://janinthesky.com/tags/storm/</link>
+    <description>Recent content in storm on The Outsider&#39;s Journey</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Janani Dhinakaran - All rights reserved</copyright>
+    <lastBuildDate>Tue, 11 Aug 2015 01:00:05 +0000</lastBuildDate>
+    
+	<atom:link href="https://janinthesky.com/tags/storm/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SVL 1.5: A weekend in Michigan</title>
+      <link>https://janinthesky.com/blog/2015-08-11-svl-1-5-a-weekend-in-michigan/</link>
+      <pubDate>Tue, 11 Aug 2015 01:00:05 +0000</pubDate>
+      
+      <guid>https://janinthesky.com/blog/2015-08-11-svl-1-5-a-weekend-in-michigan/</guid>
+      <description>11th August 2014   Dear family and friends,  How are you?   Two busy weekends have passed since I last wrote to you.</description>
+    </item>
+    
+    <item>
+      <title>The storm</title>
+      <link>https://janinthesky.com/blog/2013-06-19-the-storm/</link>
+      <pubDate>Wed, 19 Jun 2013 21:12:57 +0000</pubDate>
+      
+      <guid>https://janinthesky.com/blog/2013-06-19-the-storm/</guid>
+      <description>It is an odd sort of night nearing summer solstice. Outside, everything lights up in flashes as bright as day as the magnificent branches of lightning strike further and further away.</description>
+    </item>
+    
+  </channel>
+</rss>

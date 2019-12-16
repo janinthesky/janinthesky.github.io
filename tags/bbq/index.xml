@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BBQ on The Outsider&#39;s Journey</title>
+    <link>https://janinthesky.com/tags/bbq/</link>
+    <description>Recent content in BBQ on The Outsider&#39;s Journey</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Janani Dhinakaran - All rights reserved</copyright>
+    <lastBuildDate>Sat, 15 Dec 2012 04:00:20 +0000</lastBuildDate>
+    
+	<atom:link href="https://janinthesky.com/tags/bbq/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>LOG 1.23: End of Semester</title>
+      <link>https://janinthesky.com/blog/2012-12-15-log-1-23-end-of-semester/</link>
+      <pubDate>Sat, 15 Dec 2012 04:00:20 +0000</pubDate>
+      
+      <guid>https://janinthesky.com/blog/2012-12-15-log-1-23-end-of-semester/</guid>
+      <description>22nd July, 2011
+Hello everyone,
+Yesterday I wrote the last exam of this Semester! Not sure when I will get results but I´m sure what I did try, I got right.</description>
+    </item>
+    
+    <item>
+      <title>LOG 1.18: A friend visits</title>
+      <link>https://janinthesky.com/blog/2012-11-17-log-1-18-a-friend-visits/</link>
+      <pubDate>Sat, 17 Nov 2012 04:00:49 +0000</pubDate>
+      
+      <guid>https://janinthesky.com/blog/2012-11-17-log-1-18-a-friend-visits/</guid>
+      <description>31st May, 2011
+Hello,
+Hope this finds all of you in good health and happiness.
+Today I had the first day of a MATLAB workshop which will last all week except Thursday which is a holiday for us.</description>
+    </item>
+    
+  </channel>
+</rss>
